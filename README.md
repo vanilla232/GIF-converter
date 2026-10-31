@@ -1,5 +1,7 @@
 # GIF Converter
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Десктопное приложение для конвертации видео и изображений в GIF с интуитивным редактором.
 
 ## Скачать готовую сборку
